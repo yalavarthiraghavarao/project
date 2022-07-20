@@ -12,6 +12,17 @@
 <li>Git</li>
 </ul>
 <h2>Features</h2>
+<ul>
+ <li> Balance verification</li>
+  <li> Recent transactions verification</li>
+  <li> Money transfer</li>
+  <li> Making deposits</li>
+  <li>  Bill payments</li>
+  <li>  openin bank account </li>
+</ul>
+
+
 
  <h2>usage</h2>
- Here, you instruct other people on how to use your project after they’ve installed it. This would also be a good place to include screenshots of your project in action.
+   Download the source code from github and then extract the source code into your computer by creating one folder  after that you have to import your project into Eclipse and run the application.
+ 
