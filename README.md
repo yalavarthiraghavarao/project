@@ -13,16 +13,15 @@
 </ul>
 <h2>Features</h2>
 <ul>
- <li> Balance verification</li>
-  <li> Recent transactions verification</li>
-  <li> Money transfer</li>
-  <li> Making deposits</li>
-  <li>  Bill payments</li>
-  <li>  openin bank account </li>
+ <li> Opening BankAccount</li>
+  <li> Deposite Money</li>
+  <li> WithDraw Money</li>
+  <li> Money Transfer</li>
+  <li> View Transactions</li>
 </ul>
 
 
 
- <h2>usage</h2>
+ <h2>Usage</h2>
    Download the source code from github and then extract the source code into your computer by creating one folder  after that you have to import your project into Eclipse and run the application.
  
